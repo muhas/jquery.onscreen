@@ -1,3 +1,5 @@
+this js deprecated, use «Intersection Observer API»
+
 # jquery.onscreen
 
 jquery onscreen filter
